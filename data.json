@@ -1,0 +1,28 @@
+
+[
+        { "id":1,
+            "img":"./img/samsung_a52s.jpg",
+            "price":"8000",
+            "name":"Samsung Galaxy A52s"
+
+        },
+        { "id":2,
+            "img":"./img/samsung_a32.jpg",
+            "price":"7500",
+            "name":"Samsung Galaxy A32"
+
+        },
+        { "id":3,
+            "img":"./img/samsung_s21_ultra.jpg",
+            "price":"20000",
+            "name":"Samsung Galaxy S21 Ultra"
+
+        },
+        { "id":3,
+            "img":"./img/Samsung-Galaxy-Note20-Ultra.png",
+            "price":"18000",
+            "name":"Samsung Galaxy Note 20 Ultra"
+
+        }
+
+    ]
